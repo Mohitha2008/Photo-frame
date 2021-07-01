@@ -1,0 +1,11 @@
+h2{
+    font-size: 25px !important;
+    font-family: cursive;
+    font-weight: 600;
+}
+canvas{
+    border: 2px solid rgb(25, 0, 117);
+}
+body{
+    background-color: rgb(189, 91, 235);
+}
